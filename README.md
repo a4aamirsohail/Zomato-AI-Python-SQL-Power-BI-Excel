@@ -4,6 +4,12 @@ This project is a comprehensive analysis of Zomato food delivery data using Pyth
 
 ## Platforms Used
 
+## Zomato-AI-Python-SQL-Power-BI-Excel Project
+
+![Zomato Logo](zomato-logo-full.jpg)
+
+This project is a comprehensive analysis of Zomato food delivery data using Python, SQL, Power BI, and Excel. The goal is to extract actionable insights about customer behavior, restaurant performance, cuisine popularity, and delivery trends.
+
 - **Python (Jupyter Notebook):** Data cleaning, exploration, and visualization.
 - **SQL:** Data cleaning, querying, and aggregation.
 - **Power BI:** Interactive dashboards and reports.
@@ -90,3 +96,7 @@ Key insights and trends are visualized using Power BI and Python. Example PNG vi
 ---
 
 This project demonstrates a multi-platform approach to food delivery data analysis, enabling robust and actionable insights.
+
+```git
+git init
+```
