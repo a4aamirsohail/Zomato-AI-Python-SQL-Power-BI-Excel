@@ -1,5 +1,6 @@
 # Zomato Data Analysis - A Food Delivery Company
 
+<img width="5376" height="1944" alt="Zomato-Logo" src="https://github.com/user-attachments/assets/09274921-2cc0-4a8d-a3ce-0f62ed5a0fce" />
 
 ## Overview
 
