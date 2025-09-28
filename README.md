@@ -1,6 +1,5 @@
 # Zomato Data Analysis - A Food Delivery Company
 
-![Zomato Logo](c:\Users\HP\OneDrive\Desktop\Zomato Project\Zomato-AI-Python-SQL-Power-BI-Excel\zomato-logo-full.jpg) <!-- Add image link here if available -->
 
 ## Overview
 
