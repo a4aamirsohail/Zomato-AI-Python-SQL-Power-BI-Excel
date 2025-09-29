@@ -18,7 +18,7 @@ This project demonstrates my SQL, Python, Excel, Power BI, and AI problem-solvin
 
 ---
 
-## SQL Code Samples
+## SQL Code 
 
 ```sql
 -- Standardize Date Format (DD-MM-YYYY HH:MM)
@@ -83,7 +83,7 @@ FROM Zomato;
 
 ---
 
-## Python Code Samples
+## Python Code
 
 ```python
 import pandas as pd
